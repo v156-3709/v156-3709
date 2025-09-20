@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Привет, я Лера
 
-<!--
-**v156-3709/v156-3709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студентка 3 курса, изучаю программирование.
 
-Here are some ideas to get you started:
+## 🛠️ Технологии и инструменты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python • JavaScript • Java
+- HTML • CSS 
+- Git • SQL 
+
+## 📫 Как со мной связаться
+
+- Telegram: [@qqqqqqqqqqqq156](https://t.me/qqqqqqqqqqqq156)
+- Почта: vshelipova@yandex.ru
+
+## 📊 Статистика активности
+
+![Статистика](https://github-readme-stats.vercel.app/api?username=v156-3709&show_icons=true&theme=default)
